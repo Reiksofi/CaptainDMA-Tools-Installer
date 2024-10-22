@@ -1,7 +1,7 @@
 # CaptainDMA-Tools-Installer
 
 >[!WARNING]
-> This Installer is Created Only For Some Important Tools with Captain DMA Card...
+> This Installer is Created Only For Some Important Tools(works only with Captain DMA Card)...
 
 ## Donation
 
